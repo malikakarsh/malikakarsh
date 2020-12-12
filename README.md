@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 ![Akarsh's github stats](https://github-readme-stats.vercel.app/api?username=malikakarsh&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malikakarsh&layout=compact)](https://github.com/malikakarsh/github-readme-stats)
