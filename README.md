@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there ✋🏻
 - I am Akarsh Malik an Instrumentation and Control sophomore at NIT Trichy.
 - I am currently a system administrator in Delta Force.
 
