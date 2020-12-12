@@ -1,6 +1,6 @@
 ### Hi there ✋🏻
-- I am Akarsh Malik an Instrumentation and Control sophomore at NIT Trichy.
-- I am currently a system administrator in Delta Force.
+- I am an Instrumentation and Control sophomore at NIT Trichy.
+- I am currently a system administrator at Delta Force.
 
 
 ![Akarsh's github stats](https://github-readme-stats.vercel.app/api?username=malikakarsh&show_icons=true&theme=radical)
