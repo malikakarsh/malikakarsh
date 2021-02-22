@@ -1,6 +1,6 @@
 ### Hi there ✋🏻
 - I am an Instrumentation and Control sophomore at NIT Tiruchirappalli.
-- Currently a system administrator at Delta Force.
+- Currently a System Administrator at Delta Force.
 
 <hr></hr>
 <h2 align="left">Languages & Frameworks</h2>
