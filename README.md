@@ -2,6 +2,7 @@
 - I am an Instrumentation and Control sophomore at NIT Tiruchirappalli.
 - Currently a system administrator at Delta Force.
 
+<hr></hr>
 <h2 align="center">🛠️ Languages & Frameworks</h2>
 
 ![Python](https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white)
