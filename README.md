@@ -3,7 +3,7 @@
 - Currently a system administrator at Delta Force.
 
 <hr></hr>
-<h2 align="left">🛠️ Languages & Frameworks</h2>
+<h2 align="left">Languages & Frameworks</h2>
 
 ![Python](https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
@@ -25,7 +25,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 <hr></hr>
-<h2 align="left">⚙️ Tools</h2>
+<h2 align="left">Tools</h2>
 
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
