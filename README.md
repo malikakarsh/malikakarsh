@@ -24,6 +24,7 @@
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
+<hr></hr>
 <h2 align="left">⚙️ Tools</h2>
 
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
@@ -33,6 +34,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
 
+<h2 align="left">Catch Me On</h2>
 [<img src="https://img.shields.io/badge/Linkedin-malikakarsh-blue?logo=linkedin&style=for-the-badge">](https://www.linkedin.com/in/akarsh-malik-911221193/)
 
 
