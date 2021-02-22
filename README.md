@@ -36,7 +36,7 @@
 
 <hr></hr>
 <h2 align="left">Catch Me On</h2>
-[<img src="https://img.shields.io/badge/Linkedin-malikakarsh-blue?logo=linkedin&style=for-the-badge">](https://www.linkedin.com/in/akarsh-malik-911221193/)
+<img src="https://img.shields.io/badge/Linkedin-malikakarsh-blue?logo=linkedin&style=for-the-badge">[](https://www.linkedin.com/in/akarsh-malik-911221193/)
 
 ___
 
