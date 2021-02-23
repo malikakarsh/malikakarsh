@@ -37,6 +37,7 @@
 <hr></hr>
 <h2 align="left">Catch Me On</h2>
 <a href="https://www.linkedin.com/in/akarsh-malik-911221193/"><img src="https://img.shields.io/badge/Linkedin-malikakarsh-blue?logo=linkedin&style=for-the-badge"></a>
+<a href="mailto:malikakarsh@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ___
 
