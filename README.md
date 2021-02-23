@@ -1,5 +1,5 @@
 ### Hi there ✋🏻
-- I am an Instrumentation and Control sophomore at NIT Tiruchirappalli.
+- I am an Instrumentation and Control sophomore at <a href="https://nitt.edu">NIT Tiruchirappalli</a>.
 - Currently a System Administrator at <a href="https://delta.nitt.edu/">Delta Force</a>.
 
 <hr></hr>
