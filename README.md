@@ -1,6 +1,5 @@
 ![](images/akarshmalik.jpg)
-<h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
-<hr><hr>
+# About Me
 - I am an Instrumentation and Control sophomore at <a href="https://www.nitt.edu" target="_ ">NIT Tiruchirappalli</a> .
 - Currently a System Administrator at <a href="https://delta.nitt.edu/" target="_ ">Delta Force</a> .
 
