@@ -1,7 +1,7 @@
 ![](images/akarshmalik.jpg)
 # About Me
-- I am an Instrumentation and Control sophomore at <a href="https://www.nitt.edu" target="_ ">NIT Tiruchirappalli</a> 
-- Currently a System Administrator at <a href="https://delta.nitt.edu/" target="_ ">Delta Force</a> 
+- I am an Instrumentation and Control sophomore at <a href="https://www.nitt.edu" target="_ ">NIT Tiruchirappalli</a> .
+- Currently a System Administrator at <a href="https://delta.nitt.edu/" target="_ ">Delta Force</a> .
 
 <hr></hr>
 <h2 align="left">Languages & Frameworks</h2>
