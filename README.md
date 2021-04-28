@@ -44,4 +44,4 @@ ___
 
 ### 📈 **Github Stats**
 ![Akarsh Malik's github stats](https://github-readme-stats.vercel.app/api?username=malikakarsh&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=3385c7&title_color=3385c7&icon_color=3385c7)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malikakarsh&theme=radical&langs_count=15)](https://github.com/malikakarsh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malikakarsh&&langs_count=10&hide_border=true&bg_color=00000000&text_color=3385c7&title_color=3385c7&icon_color=3385c7)](https://github.com/malikakarsh/github-readme-stats)
