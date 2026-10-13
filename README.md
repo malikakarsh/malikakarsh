@@ -1,23 +1,28 @@
-# About Me
-- I currently pursuing my Master's in Computer Science at NYU
-- I have 2+ years of work experience as a Data Scientist at ABInBev
-- I have done my undergraduate from NIT Tiruchirappalli in Instrumentation and Control Engineering
+# Hi, I'm Akarsh 👋
 
-<hr></hr>
-<h2 align="left">Languages & Frameworks</h2>
+MS Computer Science student at NYU focused on **ML systems,
+LLM inference, GPU performance, and distributed systems**.
 
-![Python](https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-![Bash](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+Previously a Data Scientist at AB InBev, where I built production
+LLM, RAG, NLP, and optimization systems.
 
-<hr></hr>
-<h2 align="left">Catch Me On</h2>
-<a href="https://www.linkedin.com/in/malikakarsh/"><img src="https://img.shields.io/badge/Linkedin-malikakarsh-blue?logo=linkedin&style=for-the-badge"></a>
-<a href="mailto:malikakarsh@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+## Currently working on
 
-___
+**FastInfer** - experimental LLM inference runtime with custom
+Triton kernels and reproducible GPU benchmarking.
+
+## Interests
+
+- LLM inference & serving
+- GPU kernels / Triton
+- ML systems
+- Distributed systems
+- High-performance computing
+
+## Selected work
+
+- **FastInfer** - Triton kernels integrated into real LLM inference
+- **Weave** - natural-language → interactive data visualization
+- **Snatch** - real-time distributed auction platform
+
+[Website](https://malikakarsh.com) • [LinkedIn](https://linkedin.com/in/malikakarsh)
