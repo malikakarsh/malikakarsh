@@ -1,28 +1,20 @@
-# Hi, I'm Akarsh 👋
+# Akarsh Malik
 
-MS Computer Science student at NYU focused on **ML systems,
-LLM inference, GPU performance, and distributed systems**.
+MS Computer Science @ NYU, focused on **ML systems, LLM inference, GPU performance, and distributed systems**.
 
-Previously a Data Scientist at AB InBev, where I built production
-LLM, RAG, NLP, and optimization systems.
+Previously a Data Scientist at Anheuser-Busch InBev, where I built production LLM, RAG, NLP, and optimization systems.
 
-## Currently working on
+## Selected Projects
 
-**FastInfer** - experimental LLM inference runtime with custom
-Triton kernels and reproducible GPU benchmarking.
+- **FastInfer** - LLM inference runtime with custom Triton kernels, real-model integration, and reproducible GPU benchmarks
+- **Weave** - natural-language data visualization platform for generating interactive dashboards from CSVs
+- **Snatch** - real-time distributed auction platform with WebSockets, PostgreSQL concurrency control, and non-blocking scheduling
 
-## Interests
+## Current Focus
 
-- LLM inference & serving
-- GPU kernels / Triton
-- ML systems
-- Distributed systems
-- High-performance computing
+- LLM inference and serving
+- Triton / GPU kernel optimization
+- High-performance ML systems
+- Distributed systems and infrastructure
 
-## Selected work
-
-- **FastInfer** - Triton kernels integrated into real LLM inference
-- **Weave** - natural-language → interactive data visualization
-- **Snatch** - real-time distributed auction platform
-
-[Website](https://malikakarsh.com) • [LinkedIn](https://linkedin.com/in/malikakarsh)
+[Website](https://malikakarsh.com) · [LinkedIn](https://linkedin.com/in/malikakarsh) · [GitHub](https://github.com/malikakarsh)
